@@ -3370,3 +3370,6 @@ Assets/TutorialInfo.meta
 Assets/Unity.meta
 Assets/UPPatcherUserSettings.asset
 Assets/UPPatcherUserSettings.asset.meta
+
+*.blend1
+*~
