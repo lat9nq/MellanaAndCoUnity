@@ -3373,3 +3373,5 @@ Assets/UPPatcherUserSettings.asset.meta
 
 *.blend1
 *~
+*.htm
+.vs
