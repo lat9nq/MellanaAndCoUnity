@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: PlushieLana
   m_EditorClassIdentifier: 
   itemId: 0
-  itemName: Lana
+  itemName: Lana Plushie
   spawnPositionTypes: []
   twoHanded: 0
   twoHandedAnimation: 0

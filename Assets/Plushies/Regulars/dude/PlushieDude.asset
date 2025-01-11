@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: PlushieDude
   m_EditorClassIdentifier: 
   itemId: 0
-  itemName: DUDE
+  itemName: DUDE Plushie
   spawnPositionTypes: []
   twoHanded: 0
   twoHandedAnimation: 0

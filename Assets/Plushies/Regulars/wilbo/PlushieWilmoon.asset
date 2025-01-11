@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: PlushieWilmoon
   m_EditorClassIdentifier: 
   itemId: 0
-  itemName: Wilmoon
+  itemName: Wilmoon Plushie
   spawnPositionTypes: []
   twoHanded: 0
   twoHandedAnimation: 0

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: PlushieGerbert
   m_EditorClassIdentifier: 
   itemId: 0
-  itemName: Gerbert
+  itemName: Gerbert Plushie
   spawnPositionTypes: []
   twoHanded: 0
   twoHandedAnimation: 0

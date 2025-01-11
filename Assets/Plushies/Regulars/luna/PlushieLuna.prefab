@@ -346,7 +346,7 @@ MonoBehaviour:
   maxRange: 13
   minRange: 1
   requiresLineOfSight: 1
-  headerText: Luna
+  headerText: Luna Plushie
   subText: 'Value: '
   scrapValue: 0
   creatureScanID: -1
@@ -366,7 +366,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2740071834486197941}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
