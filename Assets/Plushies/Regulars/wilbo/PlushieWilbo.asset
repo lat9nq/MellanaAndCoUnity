@@ -32,7 +32,7 @@ MonoBehaviour:
   minValue: 50
   spawnPrefab: {fileID: 6828012352588810095, guid: f98496f13fcb4c54a8a96b50cc8fbbb9,
     type: 3}
-  requiresBattery: 1
+  requiresBattery: 0
   batteryUsage: 15
   automaticallySetUsingPower: 1
   itemIcon: {fileID: 21300000, guid: 9904f976fd07cb14fb7192be5c1cb6bb, type: 3}
