@@ -57,7 +57,7 @@ MonoBehaviour:
   allowDroppingAheadOfPlayer: 1
   restingRotation: {x: -90, y: 0, z: 90}
   rotationOffset: {x: -215.9, y: -25.3, z: 68.9}
-  positionOffset: {x: -0.1, y: 0.14, z: 0.04}
+  positionOffset: {x: -0.1, y: 0.11, z: 0.04}
   meshOffset: 1
   meshVariants: []
   materialVariants: []
