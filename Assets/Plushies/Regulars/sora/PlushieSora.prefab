@@ -374,7 +374,7 @@ MonoBehaviour:
   propColliders: []
   originalScale: {x: 0, y: 0, z: 0}
   wasOwnerLastFrame: 0
-  mainObjectRenderer: {fileID: 0}
+  mainObjectRenderer: {fileID: 1767971385426616120}
   isSendingItemRPC: 0
   scrapPersistedThroughRounds: 0
   heldByPlayerOnServer: 0
@@ -413,7 +413,7 @@ GameObject:
   - component: {fileID: 8861336658336767450}
   - component: {fileID: 1492369997053830834}
   - component: {fileID: 8508633589160642853}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: frog_shoulder
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -121,7 +121,7 @@ MonoBehaviour:
   maxRange: 13
   minRange: 1
   requiresLineOfSight: 1
-  headerText: Vish Plushie
+  headerText: Vishsh Plushie
   subText: 'Value: '
   scrapValue: 0
   creatureScanID: -1
@@ -276,7 +276,7 @@ MonoBehaviour:
   propColliders: []
   originalScale: {x: 0, y: 0, z: 0}
   wasOwnerLastFrame: 0
-  mainObjectRenderer: {fileID: 0}
+  mainObjectRenderer: {fileID: 7790672564594283418}
   isSendingItemRPC: 0
   scrapPersistedThroughRounds: 0
   heldByPlayerOnServer: 0
