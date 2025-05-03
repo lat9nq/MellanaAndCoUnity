@@ -396,7 +396,7 @@ MonoBehaviour:
   maxRange: 13
   minRange: 1
   requiresLineOfSight: 1
-  headerText: PlushieCat Plushie
+  headerText: Frog Cat Plushie
   subText: 'Value: '
   scrapValue: 0
   creatureScanID: -1
